@@ -7,7 +7,7 @@
 等我什么时候得空了，再把服务器端一气呵成。若有朋友愿意一同完成此项目，十分欢迎。
 
 ## 开发说明：  
-开发环境：`Visual Stdio 2017 + Windows 10` + .net framework 4.5.2
+开发环境：`Visual Stdio 2017 + Windows 10 + .net framework 4.5.2`  
 开发语言：`C#`  
 
 ## 文件说明：
