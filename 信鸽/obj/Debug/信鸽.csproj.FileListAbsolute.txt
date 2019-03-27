@@ -1,0 +1,149 @@
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\信鸽.exe.config
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\信鸽.exe
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\信鸽.pdb
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\ksh\信鸽.resources.dll
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.csprojAssemblyReference.cache
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.Properties.Resources.resources
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.csproj.GenerateResource.cache
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.csproj.CoreCompileInputs.cache
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\ksh\信鸽.resources.dll
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.exe
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.pdb
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\MessageBird.MainForm.resources
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.resources
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.ksh.resources
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\MessageBird.AccountRegedit.resources
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\MainFormUpForm.dll
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\MainFormUpForm.pdb
+F:\freework\visual stdio build\C#\MessageBird\信鸽\obj\Debug\信鸽.csproj.CopyComplete
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\信鸽.exe.config
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\信鸽.exe
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\信鸽.pdb
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\ksh\信鸽.resources.dll
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\MainFormUpForm.dll
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\MainFormUpForm.pdb
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.csprojAssemblyReference.cache
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\MessageBird.AccountRegedit.resources
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\MessageBird.MainForm.resources
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.Properties.Resources.resources
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.resources
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.ksh.resources
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.csproj.GenerateResource.cache
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.csproj.CoreCompileInputs.cache
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\ksh\信鸽.resources.dll
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.csproj.CopyComplete
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.exe
+F:\freework\c sharp program language\MessageBird\信鸽\obj\Debug\信鸽.pdb
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\MainFormDownForm.dll
+F:\freework\c sharp program language\MessageBird\信鸽\bin\Debug\MainFormDownForm.pdb
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\MainFormDownForm.dll
+F:\freework\visual stdio build\C#\MessageBird\信鸽\bin\Debug\MainFormDownForm.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\信鸽.exe.config
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\信鸽.exe
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\信鸽.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\ksh\信鸽.resources.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\MainFormDownForm.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\MainFormDownForm.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.csprojAssemblyReference.cache
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\MessageBird.AccountRegedit.resources
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\MessageBird.MainForm.resources
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.Properties.Resources.resources
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.resources
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.ksh.resources
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.csproj.GenerateResource.cache
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.csproj.CoreCompileInputs.cache
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\ksh\信鸽.resources.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.csproj.CopyComplete
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.exe
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\obj\Debug\信鸽.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\GroupShowForm.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\ConnectTabForm.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\GroupShowForm.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\ConnectTabForm.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\MessageForm.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\MessageForm.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\MainFormUpForm.pdb
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\MainFormUpForm.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\CSkin.dll
+F:\freework\visual stdio build\C sharp\MessageBird\信鸽\bin\Debug\CSkin.xml
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\信鸽.exe.config
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\信鸽.exe
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\信鸽.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ksh\信鸽.resources.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ConnectTabForm.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\CSkin.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowForm.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormDownForm.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormUpForm.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageForm.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ConnectTabForm.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowForm.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormDownForm.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageForm.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\CSkin.xml
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormUpForm.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csprojAssemblyReference.cache
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.AccountRegedit.resources
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.MainForm.resources
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.Properties.Resources.resources
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.resources
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.ksh.resources
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csproj.GenerateResource.cache
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csproj.CoreCompileInputs.cache
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\ksh\信鸽.resources.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csproj.CopyComplete
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.exe
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.ChatForm.resources
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowEasyForm.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageBirdCommon.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowEasyForm.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageBirdCommon.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupOppositeEasyInformation.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupOppositeEasyInformation.pdb
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\CommonInformationClass.dll
+F:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\CommonInformationClass.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\信鸽.exe.config
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\信鸽.exe
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\信鸽.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ksh\信鸽.resources.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ConnectTabForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupOppositeEasyInformation.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowEasyForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormDownForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormUpForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageBirdCommon.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\CommonInformationClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ConnectTabForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupOppositeEasyInformation.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowEasyForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\GroupShowForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormDownForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageBirdCommon.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MessageForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\MainFormUpForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\CommonInformationClass.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csprojAssemblyReference.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.AccountRegedit.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.ChatForm.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.MainForm.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.Properties.Resources.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.SignIn.ksh.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csproj.GenerateResource.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csproj.CoreCompileInputs.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\ksh\信鸽.resources.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.csproj.CopyComplete
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.exe
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\信鸽.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ShowSearchForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ShowSearchForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\SpacerForm.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\SpacerForm.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ShowNews.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ShowNews.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\obj\Debug\MessageBird.ApplyForm.resources
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ObjectExpandClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\信鸽\bin\Debug\ObjectExpandClass.pdb

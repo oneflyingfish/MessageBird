@@ -1,0 +1,5 @@
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\CommonInformationClass\bin\Release\CommonInformationClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\CommonInformationClass\bin\Release\CommonInformationClass.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\CommonInformationClass\obj\Release\MessageBirdCommonClass.csproj.CoreCompileInputs.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\CommonInformationClass\obj\Release\CommonInformationClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\CommonInformationClass\obj\Release\CommonInformationClass.pdb

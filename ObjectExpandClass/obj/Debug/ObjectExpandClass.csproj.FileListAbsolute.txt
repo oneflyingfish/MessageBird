@@ -1,0 +1,6 @@
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\bin\Debug\ObjectExpandClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\bin\Debug\ObjectExpandClass.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Debug\ObjectExpandClass.csprojAssemblyReference.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Debug\ObjectExpandClass.csproj.CoreCompileInputs.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Debug\ObjectExpandClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Debug\ObjectExpandClass.pdb

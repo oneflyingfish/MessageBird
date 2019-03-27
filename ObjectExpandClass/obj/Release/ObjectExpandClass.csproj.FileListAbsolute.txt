@@ -1,0 +1,5 @@
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\bin\Release\ObjectExpandClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\bin\Release\ObjectExpandClass.pdb
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Release\ObjectExpandClass.csproj.CoreCompileInputs.cache
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Release\ObjectExpandClass.dll
+G:\freework\visual stdio build\C sharp\WinForm\MessageBird\ObjectExpandClass\obj\Release\ObjectExpandClass.pdb

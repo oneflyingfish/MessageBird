@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F0C49D3C-4A1F-4366-9E5A-327F488F1AAC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>信鸽</RootNamespace>
+    <AssemblyName>信鸽</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>App1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>D:\C# controls\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MainFormUpForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MainFormUpForm\bin\Debug\MainFormUpForm.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountRegedit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountRegedit.Designer.cs">
+      <DependentUpon>AccountRegedit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplyForm.Designer.cs">
+      <DependentUpon>ApplyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChatForm.Designer.cs">
+      <DependentUpon>ChatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountRegedit.resx">
+      <DependentUpon>AccountRegedit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplyForm.resx">
+      <DependentUpon>ApplyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChatForm.resx">
+      <DependentUpon>ChatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn.ksh.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App1.ico" />
+    <None Include="bin\Debug\Pictures\Images\历史.png" />
+    <None Include="bin\Debug\Pictures\Images\添加好友 %281%29.png" />
+    <None Include="bin\Debug\Pictures\Images\望远镜.png" />
+    <Content Include="message.ico" />
+    <None Include="Pictures\Images\TopBackGround.png" />
+    <None Include="Pictures\Images\Back.jpg" />
+    <None Include="Pictures\Images\文件 %281%29.png" />
+    <None Include="Pictures\Images\文件.png" />
+    <None Include="Pictures\Images\SearchIcon.png" />
+    <None Include="Pictures\Images\菜单.png" />
+    <None Include="Pictures\Images\添加好友 %281%29.png" />
+    <None Include="Pictures\Images\添加好友.png" />
+    <None Include="Pictures\Images\列表.png" />
+    <None Include="Pictures\Images\AppIcon-white.png" />
+    <None Include="Pictures\Images\AppIcon-green.png" />
+    <None Include="Pictures\Images\APPIcon-blue.png" />
+    <None Include="Pictures\Images\AppIcon-black.png" />
+    <None Include="Pictures\Images\community-2.png" />
+    <None Include="Pictures\Images\最小化.png" />
+    <None Include="Pictures\Images\最大化.png" />
+    <None Include="Pictures\Images\最大化还原.png" />
+    <None Include="Pictures\Images\关闭.png" />
+    <None Include="Pictures\Images\SearchBoxIcon.png" />
+    <None Include="Pictures\Images\search.png" />
+    <None Include="Pictures\Images\password3.png" />
+    <None Include="Pictures\Images\Account.png" />
+    <None Include="Pictures\Images\password.png" />
+    <None Include="Pictures\Images\AddFriend.png" />
+    <None Include="Pictures\Images\SoftwareSet.png" />
+    <None Include="Pictures\Images\signBackImage2.png" />
+    <None Include="Pictures\Images\SignInFormBackGround.jpg" />
+    <None Include="Pictures\Images\search1.png" />
+    <None Include="Pictures\Icons\App.ico" />
+    <None Include="Pictures\Images\signBackImage.png" />
+    <None Include="Pictures\Images\InitIcon.png" />
+    <None Include="Pictures\Images\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonInformationClass\MessageBirdCommonClass.csproj">
+      <Project>{9409c49c-3c08-4fe3-96ae-1d18858d093b}</Project>
+      <Name>MessageBirdCommonClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConnectTabForm\ConnectTabForm.csproj">
+      <Project>{f47b3e4f-da46-43b2-a50c-63ec9bda60da}</Project>
+      <Name>ConnectTabForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroupOppositeEasyInformation\GroupOppositeEasyInformation.csproj">
+      <Project>{a4dd19ff-5d31-4dd3-b1c6-0596b294c666}</Project>
+      <Name>GroupOppositeEasyInformation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroupShowEasyForm\GroupShowEasyForm.csproj">
+      <Project>{8eb683c9-c0b3-4368-a848-8cdcc9bd8fcb}</Project>
+      <Name>GroupShowEasyForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroupShowForm\GroupShowForm.csproj">
+      <Project>{690EEF8E-3646-4A0E-96DA-5782361C4BCF}</Project>
+      <Name>GroupShowForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MainFormDownForm\MainFormDownForm.csproj">
+      <Project>{e5a705fa-55bf-405b-a3ff-56ecea295dff}</Project>
+      <Name>MainFormDownForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessageBirdCommon\MessageBirdCommon.csproj">
+      <Project>{c5193414-b1ad-437d-81b2-11a1d98974ad}</Project>
+      <Name>MessageBirdCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessageForm\MessageForm.csproj">
+      <Project>{c60504ca-2ee4-4004-92e0-75a0a057ebb6}</Project>
+      <Name>MessageForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectExpandClass\ObjectExpandClass.csproj">
+      <Project>{328ecafb-14a9-4997-be2d-2fd12e76b41e}</Project>
+      <Name>ObjectExpandClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShowNews\ShowNews.csproj">
+      <Project>{456d0acb-96f3-4faa-9bdf-ba793629a864}</Project>
+      <Name>ShowNews</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShowSearchForm\ShowSearchForm.csproj">
+      <Project>{c82acb7f-3d1e-498b-ab9b-a21896b6dcc6}</Project>
+      <Name>ShowSearchForm</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
