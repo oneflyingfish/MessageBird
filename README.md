@@ -45,3 +45,13 @@
   
 ## 项目基本定位：
 服务器尚未完成，客户端需要在整体调试中测试是否存在问题，部分功能简写了未来可以作为优化方向。
+
+## 效果图：
+* 登录：  
+![登录](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/MessageBird/sign_in.png)
+* 主界面:  
+![好友/群聊](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/MessageBird/info.png)
+![消息](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/MessageBird/news.png)
+* 聊天界面：  
+![聊天](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/MessageBird/chat.png)
+
